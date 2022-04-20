@@ -1,9 +1,9 @@
 <h1 align="center">Hi Folks! 👋</h1>
 <h3 align="center">I am Geovani, a Java and Web development student.</h3>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <p>
   <p>
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
