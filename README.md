@@ -1,6 +1,39 @@
 ## Hi folks! 👋
 
-I am Geovani da Silva, a Java and Web developer student. 
+I am Geovani da Silva, a Java and Web development student. 
+
+## About Me
+
+Addicted to gaming, music and now a student in the programming arts :P
+I started very soon to use computers and also to learn english and now I'm looking forward to finish this studies in Java, CSS and HTML to finally start my so dreamed IT University (still to decide which one) 
+
+<table>
+<caption>Geovani da Silva</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Geovani da Silva Brustolin</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2002-07-16 18:00">16 July, 2002</time></td></tr>
+<tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript</td></tr>
+</tbody>
+</table>
+
+## Tasks
+
+- [x] Born
+- [ ] Got a job
+- [ ] Finish Java Course
+- [ ] Married
+- [ ] Start the IT University
+- [ ] Rich?
+- [ ] Die
+
+Well...that's almost empty...for now.
+
 
 #
 <h2 style="display: flex;justify-content: center;">Of Frequent Use</h2>
