@@ -1,16 +1,9 @@
 <h1 align="center">Hi Folks! 👋</h1>
 <h3 align="center">I am Geovani, a Java and Web development student.</h3>
-<p>
-  <p>
-  <div style="display: flex;justify-content: center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </p>
-</p>
 
 <p>
   <p>
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
@@ -67,13 +60,6 @@
 - [ ] Die
 
 Well...that's almost empty...for now.
-
-
-#
-<h2 style="display: flex;justify-content: center;">Of Frequent Use</h2>
-
-
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
 
