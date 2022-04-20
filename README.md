@@ -8,7 +8,6 @@ Addicted to gaming, music and now a student in the programming arts :P
 I started very soon to use computers and also to learn english and now I'm looking forward to finish this studies in Java, CSS and HTML to finally start my so dreamed IT University (still to decide which one) 
 
 <table>
-<caption>Geovani da Silva</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
