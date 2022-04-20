@@ -1,8 +1,5 @@
 <h1 align="center">Hi Folks! 👋</h1>
 <h3 align="center">I am Geovani, a Java and Web development student.</h3>
--[![Linkedin Badge](https://img.shields.io/badge/-geovanisilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)](https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)
--[![Instagram Badge](https://img.shields.io/badge/-neonvision2.0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neonvision2.0/)](https://instagram.com/neonvision2.0)
--[![Gmail Badge](https://img.shields.io/badge/-rumblycactus3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumblycactus3@gmail.com)](mailto:rumblycactus3@gmail.com)
 <p>
   <p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -68,7 +65,9 @@ Well...that's almost empty...for now.
 
 ### 📫 How to Reach me:
 
-
+-[![Linkedin Badge](https://img.shields.io/badge/-geovanisilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)](https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)
+-[![Instagram Badge](https://img.shields.io/badge/-neonvision2.0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neonvision2.0/)](https://instagram.com/neonvision2.0)
+-[![Gmail Badge](https://img.shields.io/badge/-rumblycactus3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumblycactus3@gmail.com)](mailto:rumblycactus3@gmail.com)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
