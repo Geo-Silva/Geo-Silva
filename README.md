@@ -4,8 +4,8 @@ I am Geovani da Silva, a Java and Web development student.
 
 ## About Me
 
-Addicted to gaming, music and now a student in the programming arts :P
-I started very soon to use computers and also to learn english and now I'm looking forward to finish this studies in Java, CSS and HTML to finally start my so dreamed IT University (still to decide which one) 
+- Addicted to gaming, music and now a student in the programming arts :P
+- I started very soon to use computers and also to learn english and now I'm looking forward to finish this studies in Java, CSS and HTML to finally start my so dreamed IT University (still to decide which one) 
 
 <table>
 <thead>
@@ -45,9 +45,9 @@ Well...that's almost empty...for now.
 
 ### 📫 How to Reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-geovanisilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)](https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)
-[![Instagram Badge](https://img.shields.io/badge/-neonvision2.0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neonvision2.0/)](https://instagram.com/neonvision2.0)
-[![Gmail Badge](https://img.shields.io/badge/-rumblycactus3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumblycactus3@gmail.com)](mailto:rumblycactus3@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-geovanisilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)](https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)
+- [![Instagram Badge](https://img.shields.io/badge/-neonvision2.0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neonvision2.0/)](https://instagram.com/neonvision2.0)
+- [![Gmail Badge](https://img.shields.io/badge/-rumblycactus3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumblycactus3@gmail.com)](mailto:rumblycactus3@gmail.com)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
