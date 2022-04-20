@@ -1,4 +1,4 @@
-## Hi folks! 👋
+<h1 align="center">Hi Folks! 👋</h1>
 
 I am Geovani da Silva, a Java and Web development student. 
 
@@ -20,6 +20,17 @@ I am Geovani da Silva, a Java and Web development student.
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript</td></tr>
 </tbody>
 </table>
+
+
+## 📅 Hobbies
+- Study about Roman History
+- Watch Tv shows
+- Archery and Fishing
+- Play videogames
+- Music non-stop
+- Go for a Walk
+- etc.
+
 
 ## Tasks
 
