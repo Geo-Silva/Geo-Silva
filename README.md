@@ -39,7 +39,7 @@
 <tr><th scope='row'>Name</th><td>Geovani da Silva Brustolin</td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="2002-07-16 18:00">16 July, 2002</time></td></tr>
 <tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, Java, JavaScript</td></tr>
 </tbody>
 </table>
 
