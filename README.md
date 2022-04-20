@@ -24,6 +24,10 @@
 
 </div>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Geo-Silva&show_icons=true&theme=bear" width = 400>
+</p>
+
 ## About Me
 
 - Addicted to gaming, music and now a student in the programming arts :P
