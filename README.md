@@ -1,6 +1,5 @@
 <h1 align="center">Hi Folks! 👋</h1>
-
-I am Geovani da Silva, a Java and Web development student. 
+<h3 align="center">I am Geovani, a Java and Web development student.</h3>
 
 ## About Me
 
