@@ -1,7 +1,8 @@
 <h1 align="center">Hi Folks! 👋</h1>
 <h3 align="center">I am Geovani, a Java and Web development student.</h3>
 
-<p align="center">
+<div align="center">
+
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -9,7 +10,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-</p>
+
+</div>
 
 <h3 align="center">📫 How to Reach me</h3>
 
