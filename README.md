@@ -28,6 +28,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Geo-Silva&show_icons=true&theme=bear" width = 400>
 </p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
+
 ## About Me
 
 - Addicted to gaming, music and now a student in the programming arts :P
@@ -70,5 +72,5 @@
 
 Well...that's almost empty...for now.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
+
 
