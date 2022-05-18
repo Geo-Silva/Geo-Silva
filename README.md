@@ -1,6 +1,13 @@
 <h1 align="center">Hi Folks! 👋</h1>
 <h3 align="center">I am Geovani, a Java and Web developer.</h3>
 
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
+
+</div>
+
+
 <h3 align="center">📫 How to Reach me</h3>
 
 <div align="center">
@@ -16,35 +23,35 @@
 
 <div align="center">
 
-- Backend
+## Backend
 
     ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
 
-- Frontend
+## Frontend
 
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
     ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
     ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
 
-- Database
+## Database
 
     ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 
-- Versioning
+## Versioning
 
   ![Git](https://img.shields.io/badge/-Git-F14F32?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
 
-- IDEs
+## IDEs
 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
 
-- Scrum
+## Scrum
 
   ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
 
-- SO
+## SO
 
   ![Windows](https://img.shields.io/badge/-Windows-007AD4?style=flat&logo=windows&logoColor=FFFFFF)&nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)&nbsp;
@@ -54,12 +61,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Geo-Silva&show_icons=true&theme=bear" width = 400>
 </p>
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
-
-</div>
 
 ## About Me
 
@@ -91,4 +92,3 @@
 - Go for a Walk
 - Write applications for fun and practice
 
-![Snake animation](https://github.com/Geo-Silva/Geo-Silva/blob/output/github-contribution-grid-snake.svg)
