@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks! 👋</h1>
-<h3 align="center">I am Geovani, a Java and Web development student.</h3>
+<h3 align="center">I am Geovani, a Java and Web developer.</h3>
 
 <div align="center">
 
@@ -28,11 +28,15 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Geo-Silva&show_icons=true&theme=bear" width = 400>
 </p>
 
+<div align="center">
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Geo-Silva.Geo-Silva)
+
+</div>
 
 ## About Me
 
-- Addicted to gaming, music and now a student in the programming arts :P
+- Addicted to gaming, music and now in the programming arts :P
 - I started very soon to use computers and also to learn english and now I'm looking forward to finish this studies in Java, CSS and HTML to finally start my so dreamed IT University (still to decide which one) 
 
 <table>
