@@ -21,13 +21,11 @@
 
 <h3 align="center">Technoliges that I use:</h3>
 
-<div align="center">
-
-## Backend
+- Backend
 
     ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
 
-## Frontend
+- Frontend
 
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
     ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
@@ -38,25 +36,23 @@
 
     ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 
-## Versioning
+- Versioning
 
   ![Git](https://img.shields.io/badge/-Git-F14F32?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
 
-## IDEs
+- IDEs
 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
 
-## Scrum
+- Scrum
 
   ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
 
-## SO
+- SO
 
   ![Windows](https://img.shields.io/badge/-Windows-007AD4?style=flat&logo=windows&logoColor=FFFFFF)&nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)&nbsp;
-
-</div>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Geo-Silva&show_icons=true&theme=bear" width = 400>
