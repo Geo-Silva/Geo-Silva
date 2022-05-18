@@ -7,7 +7,6 @@
 
 </div>
 
-
 <h3 align="center">📫 How to Reach me</h3>
 
 <div align="center">
@@ -19,7 +18,7 @@
 </div>
 
 
-<h3 align="center">Technoliges that I use:</h3>
+<h3 align="center">Technologies that I use:</h3>
 
 - Backend
 
@@ -49,7 +48,7 @@
 
     ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
 
-- SO
+- OS
 
     ![Windows](https://img.shields.io/badge/-Windows-007AD4?style=flat&logo=windows&logoColor=FFFFFF)&nbsp;
     ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)&nbsp;
