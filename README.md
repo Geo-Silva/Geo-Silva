@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks! 👋</h1>
-<h3 align="center">I am Geovani, a Java and Web developer.</h3>
+<h2 align="center">I am Geovani, a Java and Web developer.</h2>
 
 <div align="center">
 
@@ -20,12 +20,9 @@
 
 <h3 align="center">Technologies that I use:</h3>
 
-- Backend
+- Languages
 
     ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
-
-- Frontend
-
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
     ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
@@ -43,6 +40,7 @@
 - IDEs
 
     ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
 
 - Scrum
 
@@ -59,8 +57,8 @@
 
 ## About Me
 
-- Addicted to gaming, music and now in the programming arts :P
-- I started very soon to use computers and also to learn english and now I'm looking forward to finish this studies in Java, CSS and HTML
+- Addicted to gaming, music and programming
+- I started very soon to use computers and also to learn english, so the passion comes since my childhood
 - I am currently studying Java/Angular/HTML/Database in the Entra21 - Blusoft. 👨🏻‍
 - Also looking for an opportunity in the technology field ;)
 
