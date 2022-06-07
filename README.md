@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=29399F&center=true&width=600&height=80&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 <h1 align="center">Hi Folks! 👋</h1>
 <h2 align="center">I am Geovani, a Java and Web developer.</h2>
 
@@ -20,36 +22,57 @@
 
 <h3 align="center">Technologies that I use:</h3>
 
-- Languages
+<center>
+<hr>
 
-    ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
-    ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
-    ![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
-    ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
+### Languages
 
-- Database
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-the-badge&logo=lua&logoColor=white)
 
-    ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 
-- Versioning
+### Database
 
-    ![Git](https://img.shields.io/badge/-Git-F14F32?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 
-- IDEs
+### Versioning
 
-    ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F14F32?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
 
-- Scrum
+### IDEs
 
-    ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-the-badge&logo=Replit&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-the-badge&logo=visual-studio&logoColor=FFFFFF)&nbsp;
 
-- OS
+### Frameworks
 
-    ![Windows](https://img.shields.io/badge/-Windows-007AD4?style=flat&logo=windows&logoColor=FFFFFF)&nbsp;
-    ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-the-badge&logo=angular&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-the-badge&logo=ant-design&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-the-badge&logo=spring&logoColor=white)
+
+### Scrum
+
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
+
+### OS
+
+![Windows](https://img.shields.io/badge/-Windows-007AD4?style=flat&logo=windows&logoColor=FFFFFF)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-the-badge&logo=android&logoColor=white)
+
+
+
+<br>
+</center>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Geo-Silva&show_icons=true&theme=bear" width = 400>
