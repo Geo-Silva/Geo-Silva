@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=29399F&center=true&width=600&height=80&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi Folks! 👋</h1>
-<h2 align="center">I am Geovani, a Java and Web developer.</h2>
+<h2 align="center">I am Geovani, a Java Developer.</h2>
 
 <div align="center">
 
@@ -77,6 +77,7 @@
 | --------
 | Eclipse
 | IntelliJ IDEA
+| VS Code
 
 | Kanban
 | --------
