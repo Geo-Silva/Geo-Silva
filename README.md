@@ -19,85 +19,16 @@
 
 </div>
 
+## Who is Geovani?
 
-<h3 align="center">Technologies that I use:</h3>
+- I'm a 20 years old Java developer, currently working as a trainee, where I test and develop an HR API alongside my teammates, so I already have some experience of the day of a developer, experience in Scrum and also Kanban.
+- I'm a communicative guy that loves to talk about anything! So I get along with other people fairly easily. In the teamwork side, I like a lot to investigate and find a way to upgrade the code, be it by a new way or making the actual one more clean. Also, this makes me find lots of bugs and already solve them, as I have a good experience with JUnit and Mocks
+- Study wise, I'm the one! I like a lot to study about Java and alikes. Always trying to get better and better. Most of my free time is dedicated to studying, I like it quite a lot as you can see!
+> Currently, I'm studying Design Patterns in Java
+- I know that my GitHub is bit empty and that's something I'm working to change! I'm devoloping a new solo project to pratice my skills and the things I'm studying. Also, to show off my skills to the world! I'm very optimistic about anything and know the importance of keeping the head up even in difficult times
+- Although it seems like I'm fluent in english, I consider my level to be very advanced. As I still forget some words sometimes and my conversation needs a little polish to get to the fluent level. But my writing is very good! (Even though I commit some conjugation mistakes sometimes)
+- Currently I'm looking for a new opportunity, a new challenge, a new place to work with. If you happen to have a opportunity, please contact me! See below my skills and thanks for the visit!
 
-<center>
-<hr>
-
-### Languages
-
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-the-badge&logo=lua&logoColor=white)
-
-
-### Database
-
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
-
-### Versioning
-
-![Git](https://img.shields.io/badge/-Git-F14F32?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
-
-### IDEs
-
-![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-the-badge&logo=Replit&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-the-badge&logo=visual-studio&logoColor=FFFFFF)&nbsp;
-
-### Frameworks
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-the-badge&logo=angular&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-the-badge&logo=ant-design&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-the-badge&logo=spring&logoColor=white)
-
-### Scrum
-
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=FFFFFF)&nbsp;
-
-### OS
-
-![Windows](https://img.shields.io/badge/-Windows-007AD4?style=flat&logo=windows&logoColor=FFFFFF)&nbsp;
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-the-badge&logo=android&logoColor=white)
-
-
-
-<br>
-</center>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Geo-Silva&show_icons=true&theme=bear" width = 400>
-</p>
-
-## About Me
-
-- Addicted to gaming, music and programming
-- I started very soon to use computers and also to learn english, so the passion comes since my childhood
-- I am currently studying Java/Angular/HTML/Database in the Entra21 - Blusoft. 👨🏻‍
-- Also looking for an opportunity in the technology field ;)
-
-<table>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Geovani da Silva Brustolin</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2002-07-16 18:00">16 July, 2002</time></td></tr>
-<tr><th scope='row'>Nationality</th><td>Brazilian</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, Java, JavaScript</td></tr>
-</tbody>
-</table>
 
 ## 📅 Hobbies
 - Study about Roman History
@@ -106,4 +37,122 @@
 - Play videogames
 - Music non-stop
 - Go for a Walk
-- Write applications for fun and practice
+
+<hr>
+
+<h2 align = "center">All Skills</h2>
+
+<hr>
+
+<center>
+
+| Languages
+| ---------
+| Java
+| Java OOP
+| JDBC
+| Maven
+| Java Persistence (JPA)
+
+| DataBase
+| ----------
+| MySQL
+| PostGreSQL
+
+| Frameworks
+| ---------
+| Spring/Spring Boot
+| Spring MVC
+| JUnit (TDD)
+| Hibernate
+| Mockito
+
+| Versioning
+| ---------
+| Git
+| GitLab
+| GitHub
+
+| IDE
+| --------
+| Eclipse
+| IntelliJ IDEA
+
+| Kanban
+| --------
+| Trello
+| Jira
+
+| Basic Knowledge
+| ---------
+| HTML
+| CSS
+| Angular
+| Node.js
+| TypeScript/Javascript
+
+| Other
+| -------
+| Almost fluent in english
+
+| Study List
+| ----------
+| Apache Kafka
+| RabbitMQ
+| AWS (ECS, EC2, ECR, ELB, S3)
+| NoSQL
+| Java SOLID
+| BDD
+| DDD
+| Docker/Kubernetes
+| Oracle DB
+| Java Reflection
+| Java Architeture
+| Servelet
+| Jenkins
+| Kotlin
+
+Quite the big list, but I'm actively studying, soon I'll need to update/add new things ;)
+
+
+</center>
+
+<hr>
+
+<h2 align = "center">Overall skills</h2>
+<hr>
+
+### Languages
+
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=FFFFFF)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+
+### DataBase
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+### Versioning
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+
+### IDE
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+
+### Frameworks
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
+
+### Agile
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
