@@ -9,151 +9,50 @@
 
 </div>
 
-<h3 align="center">📫 How to Reach me</h3>
-
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-geovanisilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)](https://www.linkedin.com/in/geovani-da-silva-brustolin-278600235/)
-[![Instagram Badge](https://img.shields.io/badge/-neonvision2.0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neonvision2.0/)](https://instagram.com/neonvision2.0)
-[![Gmail Badge](https://img.shields.io/badge/-rumblycactus3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rumblycactus3@gmail.com)](mailto:rumblycactus3@gmail.com)
+## 🌐 **_Contact Me_** 🌐
+
+<a href="https://www.instagram.com/neonvision2.0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "https://mail.google.com/mail/u/0/?fs=1&to=rumblycactus3@gmail.com&su=CONTACT BY GITHUB - HELLO GEOVANI&body=Olá+Geovani,%20tudo+bem?&tf=cm" target="_blank"><img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rumblycactus3@gmail.com"></a>
+<a href = "https://www.youtube.com/channel/UCzFwJjYMqrFHYNQZVJCJ5FA" target="_blank"><img src="https://img.shields.io/badge/-youtube-c14438?style=for-the-badge&logo=Youtube&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/geovani-brustolin-278600235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
 ## Who is Geovani?
 
-- I'm a 20 years old Java developer, currently working as a trainee, where I test and develop an HR API alongside my teammates, so I already have some experience of the day of a developer, experience in Scrum and also Kanban.
-- I'm a communicative guy that loves to talk about anything! So I get along with other people fairly easily. In the teamwork side, I like a lot to investigate and find a way to upgrade the code, be it by a new way or making the actual one more clean. Also, this makes me find lots of bugs and already solve them, as I have a good experience with JUnit and Mocks
-- Study wise, I'm the one! I like a lot to study about Java and alikes. Always trying to get better and better. Most of my free time is dedicated to studying, I like it quite a lot as you can see!
-> Currently, I'm studying Design Patterns in Java
-- I know that my GitHub is bit empty and that's something I'm working to change! I'm devoloping a new solo project to pratice my skills and the things I'm studying. Also, to show off my skills to the world! I'm very optimistic about anything and know the importance of keeping the head up even in difficult times
-- Although it seems like I'm fluent in english, I consider my level to be very advanced. As I still forget some words sometimes and my conversation needs a little polish to get to the fluent level. But my writing is very good! (Even though I commit some conjugation mistakes sometimes)
+- I'm a 20 years old Backend Developer who is always up to something, always doing something. 
+- I'm a communicative guy that loves to talk about anything! So I get along with other people fairly easily. I really like Java, is the first programming language I've learned. I'm already experienced with it, with strong knowledge in Spring, JUnit, Mocks, TDD and Design Patterns.
 - Currently I'm looking for a new opportunity, a new challenge, a new place to work with. If you happen to have a opportunity, please contact me! See below my skills and thanks for the visit!
 
-
-## 📅 Hobbies
-- Study about Roman History
-- Watch Tv shows
-- Archery and Fishing
-- Play videogames
-- Music non-stop
-- Go for a Walk
-
 <hr>
 
-<h2 align = "center">All Skills</h2>
+<h2 align="center">Technologies I Use</h2><br>
 
-<hr>
+<img align="center" alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
+<img align="center" alt="kaka-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img align=center alt=kaka-github height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg>
+<img align="center" alt="kaka-git" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
+<img align="center" alt="kaka-js" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="kaka-ts" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/>
+<img align="center" alt="kaka-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+<img align="center" alt="kaka-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
+<img align="center" alt="kaka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align=center alt=kaka-vscode height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" />
+<img align=center alt=kaka-vs height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" />
+<br>
+<br>
 
-<center>
+---
 
-| Languages
-| ---------
-| Java
-| Java OOP
-| JDBC
-| Maven
-| Java Persistence (JPA)
-
-| DataBase
-| ----------
-| MySQL
-| PostGreSQL
-
-| Frameworks
-| ---------
-| Spring/Spring Boot
-| Spring MVC
-| JUnit (TDD)
-| Hibernate
-| Mockito
-
-| Versioning
-| ---------
-| Git
-| GitLab
-| GitHub
-
-| IDE
-| --------
-| Eclipse
-| IntelliJ IDEA
-| VS Code
-
-| Kanban
-| --------
-| Trello
-| Jira
-
-| Basic Knowledge
-| ---------
-| HTML
-| CSS
-| Angular
-| Node.js
-| TypeScript/Javascript
-
-| Other
-| -------
-| Almost fluent in english
-
-| Study List
-| ----------
-| Apache Kafka
-| RabbitMQ
-| AWS (ECS, EC2, ECR, ELB, S3)
-| NoSQL
-| Java SOLID
-| BDD
-| DDD
-| Docker/Kubernetes
-| Oracle DB
-| Java Reflection
-| Java Architeture
-| Servelet
-| Jenkins
-| Kotlin
-
-Quite the big list, but I'm actively studying, soon I'll need to update/add new things ;)
+| Sector | Technologies |
+|--------|-----------------------|
+| ☕ **_Backend_** | ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=oracle&logoColor=orange) ![Spring](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring) ![Postman](https://camo.githubusercontent.com/edf965379fcc9c67c1b387594dbb9ef753b0e694dc73a0afb5f1bdbdf156d788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d626c61636b3f7374796c653d666c6174266c6f676f3d706f73746d616e)  |
+| 📺 **_Frontend_** | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown) ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red) ![Bootstrap](https://camo.githubusercontent.com/c4b23e1fa0a6c982b845bc76460690cdc6b2f11744b17feeb199487a2d418f43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d626c61636b3f7374796c653d666c6174266c6f676f3d626f6f747374726170) ![Json](https://camo.githubusercontent.com/a4c557c06ff683e28a8cb8fb4e0d65c55066421f2e0fbd33c9238176129ad2b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a736f6e2d626c61636b3f7374796c653d666c6174266c6f676f3d6a736f6e) ![Jquery](https://camo.githubusercontent.com/11005b0595f280b5e11bae51cf4c323b1c13410ae1a0541bf9c1d31125b6e62d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a71756572792d626c61636b3f7374796c653d666c6174266c6f676f3d6a7175657279) |
+| 🛠 **_IDEs_**   | ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=purple) ![SpringToolSuite](https://camo.githubusercontent.com/42a5d90b611b99773dc4357e790e0ec51a7ce20523a216aeaf9ea37914129773/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e67253230546f6f6c25323053756974652d626c61636b3f7374796c653d666c6174266c6f676f3d537072696e67266c6f676f436f6c6f723d677265656e) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple) ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white) ![Netbeans](https://img.shields.io/badge/-NetBeans-black?style=flat&logo=oracle) |
+| 🎲 **_Database_** | ![MySql](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite) ![Postgre](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+| 🔃 **_Version_**  | ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitLab](https://camo.githubusercontent.com/7bb088aeb4fe05e4b630b6416cfb050c530a9f997b258b1b0025e6d4c8bdef76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742532304c61622d626c61636b3f7374796c653d666c6174266c6f676f3d6769746c6162) |
 
 
-</center>
-
-<hr>
-
-<h2 align = "center">Overall skills</h2>
-<hr>
-
-### Languages
-
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=FFFFFF)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-### DataBase
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-### Versioning
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
-
-### IDE
-
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
-### Frameworks
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
-
-### Agile
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+---
