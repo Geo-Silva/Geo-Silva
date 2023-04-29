@@ -30,6 +30,7 @@
 
 <h2 align="center">Technologies I Use</h2><br>
 
+<!--
 <img alt="kaka-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
 <img alt="kaka-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img alt=kaka-github height=30 width=40 src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg>
@@ -43,7 +44,7 @@
 <img alt=kaka-vs height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" />
 <br>
 <br>
-
+-->
 ---
 
 | Sector | Technologies |
